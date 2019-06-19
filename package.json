@@ -4,13 +4,13 @@
   "main": "index.js",
   "dependencies": {
     "geojson-extent": "0.3.2",
-    "mapbox-gl": "0.52.0",
+    "mapbox-gl": "1.0.0",
     "normalize.css": "8.0.1"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
     "babel-preset-env": "1.7.0",
-    "parcel-bundler": "1.11.0",
+    "parcel-bundler": "1.12.3",
     "parcel-plugin-json-url-loader": "0.1.2"
   },
   "scripts": {
